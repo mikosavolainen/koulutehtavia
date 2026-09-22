@@ -1,4 +1,4 @@
-##https://github.com/mikosavolainen/pythonalkeet
+##https://github.com/mikosavolainen/koulutehtavia
 ## 8.9.2026
 
 print("42 + 90 =", 42 + 90)
