@@ -1,3 +1,7 @@
+##https://github.com/mikosavolainen/koulutehtavia
+## 28.10.2026
+
+
 def tulosta_aloitusviesti():
   print("Laskin käynnistyy...")
   print("Ohjelmassa on saatavilla seuraavat toiminnot:")
